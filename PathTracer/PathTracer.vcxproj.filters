@@ -19,4 +19,7 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <CopyFileToFolders Include="..\SDL2.30.5\lib\x64\SDL2.dll" />
+  </ItemGroup>
 </Project>
